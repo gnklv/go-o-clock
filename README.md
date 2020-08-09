@@ -11,4 +11,4 @@ go run main.go
 
 ## Key binding
 
-- `Esc` or `Ctrl+C`: To stop the countdown without running next command.
+- `Esc` or `Ctrl+C`: To stop without running next command.
