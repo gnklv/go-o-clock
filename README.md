@@ -1,6 +1,6 @@
 # Go o'clock
 
-<p align="center"><img src="https://giphy.com/gifs/LqBuVa6H58mm31PdIS" width="700" alt="Screen shot"></p>
+<img src="https://user-images.githubusercontent.com/18486993/89739852-7243fb80-da9d-11ea-8f1c-052ec3c1c67e.gif">
 
 ## Launch
 
